@@ -551,7 +551,7 @@ section {
   width: 30px;
   line-height: 30px;
   display: block;
-  font-size: 10px;
+  font-size: 12px;
   opacity: 0.8;
 }
 
@@ -573,7 +573,7 @@ section {
 .team-member:hover .social-icons ul li a.twitter {
   background-color: #2ac6f7;
 }
-.team-member:hover .social-icons ul li a.dribbble {
+.team-member:hover .social-icons ul li a.instagram {
   background-color: #ff5b92;
 }
 .team-member:hover .social-icons ul li a.linkedin {
@@ -875,6 +875,8 @@ section {
 }
 
 #google-map {
+  margin-top:20px;
+  margin-bottom:30px;
   height: 350px;
 }
 
